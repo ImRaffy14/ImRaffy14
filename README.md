@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/Sr9vaB0wh6UAAAAd/cyberethik-ysak.gif"" alt="GIF Banner" width="100%" height="50%" style="" frameBorder="0" class="giphy-embed" alt="GIF Banner" width="100%" height="50%" />
 </div>
 <h1 align="center">Hi 👋, I'm ImRaffy.dev</h1>
-<h3 align="center">A passionate full stack developer from Philippines</h3>
+<h3 align="center">A passionate MERN full stack developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imraffy14&label=Profile%20views&color=0e75b6&style=flat" alt="imraffy14" /> </p>
 
