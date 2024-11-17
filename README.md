@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://new-portfolio-seven-phi.vercel.app/](https://new-portfolio-seven-phi.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://new-portfolio-seven-phi.vercel.app/](https://new-portfolio-seven-phi.vercel.app/)](https://imraffy14.github.io/ImRaffy.dev/)
 
-- 📫 How to reach me **mtrcb32130@gmail.com**
+- 📫 How to reach me **raffysolis123@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imraffy14" alt="imraffy14" /></a> </p>
 
