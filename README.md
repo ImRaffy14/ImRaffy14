@@ -6,6 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imraffy14&label=Profile%20views&color=0e75b6&style=flat" alt="imraffy14" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=japhethh&label=Profile%20views&color=0e75b6&style=flat" alt="japhethh" /> </p>
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👨‍💻 All of my projects are available at [https://new-portfolio-seven-phi.vercel.app/](https://new-portfolio-seven-phi.vercel.app/)
+
+- 📫 How to reach me **mtrcb32130@gmail.com**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imraffy14" alt="imraffy14" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
