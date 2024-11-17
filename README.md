@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media1.tenor.com/m/Sr9vaB0wh6UAAAAd/cyberethik-ysak.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU5b2J0aG8xenJnZTc1Y2RzODF2Y3hjcWYzYnVoaHVsYXZ2dHI5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp)" alt="GIF Banner" width="100%" height="50%" />
+  <img src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" alt="GIF Banner" width="100%" height="50%" />
 </div>
 <h1 align="center">Hi 👋, I'm ImRaffy.dev</h1>
 <h3 align="center">A passionate full stack developer from Philippines</h3>
