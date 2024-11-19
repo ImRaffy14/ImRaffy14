@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [[https://new-portfolio-seven-phi.vercel.app/](https://new-portfolio-seven-phi.vercel.app/)](https://imraffy14.github.io/ImRaffy.dev/)
+- 👨‍💻 All of my projects are available at (https://imraffy14.github.io/ImRaffy.dev/)
 
 - 📫 How to reach me **raffysolis123@gmail.com**
 
