@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media1.tenor.com/m/Sr9vaB0wh6UAAAAd/cyberethik-ysak.gif"" alt="GIF Banner" width="100%" height="50%" style="" frameBorder="0" class="giphy-embed" alt="GIF Banner" width="100%" height="50%" />
+</div>
 <h1 align="center">Hi 👋, I'm ImRaffy.dev</h1>
 <h3 align="center">A passionate MERN full stack developer from Philippines</h3>
 
