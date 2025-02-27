@@ -1,21 +1,21 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif"" alt="GIF Banner" width="100%" height="50%" style="" frameBorder="0" class="giphy-embed" alt="GIF Banner" width="100%" height="50%" />
 </div>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raffy Uanan
-===================================================================================================================================
+<h1 align="center">Hi 👋, I'm ImRaffy.dev</h1>
+<h3 align="center">A passionate MERN full stack developer from Philippines</h3>
 
-Full Stack Developer
---------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imraffy14&label=Profile%20views&color=0e75b6&style=flat" alt="imraffy14" /> </p>
 
-A passionate fourth-year BSIT major in Information Management student, currently honing my skills to become a future Full Stack Developer. Based in the Philippines, I'm on an exciting journey to merge my love for technology with my knack for innovation.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=japhethh&label=Profile%20views&color=0e75b6&style=flat" alt="japhethh" /> </p>
 
-* 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [ImRaffy.dev](http://imraffy14.github.io/ImRaffy.dev/)
-* ✉️  You can contact me at [raffysolis123@gmail.com](mailto:raffysolis123@gmail.com)
-* 🧠  I'm learning MERN Stack
+- 🌱 I’m currently learning **MERN Stack**
 
-<a href="https://www.github.com/ImRaffy14" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ImRaffy14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+- 👨‍💻 All of my projects are available at (https://imraffy14.github.io/ImRaffy.dev/)
+
+- 📫 How to reach me **raffysolis123@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imraffy14" alt="imraffy14" /></a> </p>
+
 ### Skills
 
 <p align="left">
@@ -25,14 +25,7 @@ src="https://img.shields.io/github/followers/ImRaffy14?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/imraffy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/raffy.uanan.10/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ImRaffy14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/raffyuanan/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imraffy14&show_icons=true&locale=en&layout=compact" alt="imraffy14" /></p>
 
-<a href="http://www.github.com/ImRaffy14"><img src="https://github-readme-stats.vercel.app/api?username=ImRaffy14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ImRaffy14's GitHub stats" /></a>
-
-<a href="http://www.github.com/ImRaffy14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImRaffy14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ImRaffy14"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ImRaffy14&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ImRaffy14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRaffy14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imraffy14&show_icons=true&locale=en" alt="imraffy14" /></p>
