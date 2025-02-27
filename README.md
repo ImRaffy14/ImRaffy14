@@ -8,16 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japhethh&label=Profile%20views&color=0e75b6&style=flat" alt="japhethh" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+A passionate fourth-year BSIT major in Information Management student, currently honing my skills to become a future Full Stack Developer. Based in the Philippines, I'm on an exciting journey to merge my love for technology with my knack for innovation.
 
-- 👨‍💻 All of my projects are available at (https://imraffy14.github.io/ImRaffy.dev/)
-
-- 📫 How to reach me **raffysolis123@gmail.com**
+* 🌍  I'm based in Philippines
+* 🖥️  See my portfolio at [ImRaffy.dev](http://imraffy14.github.io/ImRaffy.dev/)
+* ✉️  You can contact me at [raffysolis123@gmail.com](mailto:raffysolis123@gmail.com)
+* 🧠  I'm learning MERN Stack
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imraffy14" alt="imraffy14" /></a> </p>
 
-<a href="https://www.github.com/ImRaffy14" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ImRaffy14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
