@@ -15,7 +15,6 @@ A passionate fourth-year BSIT major in Information Management student, currently
 * ✉️  You can contact me at [raffysolis123@gmail.com](mailto:raffysolis123@gmail.com)
 * 🧠  I'm learning MERN Stack
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imraffy14" alt="imraffy14" /></a> </p>
 
 ### Skills
 
