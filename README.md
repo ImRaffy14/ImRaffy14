@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imraffy14&label=Profile%20views&color=0e75b6&style=flat" alt="imraffy14" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=japhethh&label=Profile%20views&color=0e75b6&style=flat" alt="japhethh" /> </p>
-
 A passionate fourth-year BSIT major in Information Management student, currently honing my skills to become a future Full Stack Developer. Based in the Philippines, I'm on an exciting journey to merge my love for technology with my knack for innovation.
 
 * 🌍  I'm based in Philippines
