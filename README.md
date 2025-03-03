@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif"" alt="GIF Banner" width="100%" height="10%" style="" frameBorder="0" class="giphy-embed" alt="GIF Banner" width="100%" height="10%" />
+  <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif"" alt="GIF Banner" width="50%" height="10%" style="" frameBorder="0" class="giphy-embed" alt="GIF Banner" width="50%" height="10%" />
 </div>
 <h1 align="center">Hi 👋, I'm ImRaffy.dev</h1>
 <h3 align="center">A passionate MERN full stack developer from Philippines</h3>
