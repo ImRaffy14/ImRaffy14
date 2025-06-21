@@ -9,7 +9,7 @@
 A passionate BSIT graduate majoring in Information Management, now actively pursuing a career as a Full Stack Developer. Based in the Philippines, I'm driven to merge my love for technology with a strong commitment to innovation and continuous growth.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [ImRaffy.dev](http://imraffydev.com) (This is outdated, I'm developing my new portfolio.)
+* 🖥️  See my portfolio at [ImRaffy.dev](http://imraffydev.com)
 * ✉️  You can contact me at [raffysolis123@gmail.com](mailto:raffysolis123@gmail.com)
 * 🧠  I'm learning MERN Stack
 
