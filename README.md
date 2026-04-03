@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif"" alt="GIF Banner" width="50%" height="10%" style="" frameBorder="0" class="giphy-embed" alt="GIF Banner" width="50%" height="10%" />
 </div>
 <h1 align="center">Hi 👋, I'm ImRaffy.dev</h1>
-<h3 align="center">A passionate MERN full stack developer from Philippines</h3>
+<h3 align="center">A full stack developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imraffy14&label=Profile%20views&color=0e75b6&style=flat" alt="imraffy14" /> </p>
 
@@ -11,7 +11,6 @@ A passionate BSIT graduate majoring in Information Management, now actively purs
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [ImRaffy.dev](http://imraffydev.com)
 * ✉️  You can contact me at [raffysolis123@gmail.com](mailto:raffysolis123@gmail.com)
-* 🧠  I'm learning MERN Stack
 
 
 <h3 align="left">🛠 Language and tools</h3>
