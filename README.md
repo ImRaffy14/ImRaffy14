@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imraffy14&label=Profile%20views&color=0e75b6&style=flat" alt="imraffy14" /> </p>
 
-A passionate BSIT graduate majoring in Information Management, now actively pursuing a career as a Full Stack Developer. Based in the Philippines, I'm driven to merge my love for technology with a strong commitment to innovation and continuous growth.
+BSIT graduate majoring in Information Management, currently working as a Full Stack Developer with experience in modern web technologies across frontend and backend. Skilled in building scalable, secure, and real-world applications, with a strong focus on continuous learning and practical innovation. Based in the Philippines.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [ImRaffy.dev](http://imraffydev.com)
